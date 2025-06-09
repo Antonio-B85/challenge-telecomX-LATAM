@@ -9,6 +9,7 @@ La empresa Telecom X está enfrentando un alto índice de evasión de sus client
 Aspectos a evaluar son:
 
 **Limpieza y Tratamiento de Datos**
+
 **Análisis Exploratorio de Datos**
 **Conclusiones e Insights**
 **Recomendaciones**
